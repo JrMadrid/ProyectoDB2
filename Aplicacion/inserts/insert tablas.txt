@@ -1,0 +1,13 @@
+
+BANCO BANCO BANCO
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (1,'Atlantida',253614,'Pivado')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (2,'Continental',253698,'Publico')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (3,'Lafise',789625,'Mixto')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (4,'Trabajador',789635,'Pivado')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (5,'Atlantida',253469,'Publico')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (6,'Lafise',789636,'Pivado')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (7,'Trabajador',147852,'Mixto')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (8,'Atlantida',369852,'Pivado')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (9,'Trabajador',159263,'Publico')
+--insert into Banco (BancoID,Institucion,NumeroCuenta,Tipo) values (10,'Lafise',236874,'Pivado')
+
